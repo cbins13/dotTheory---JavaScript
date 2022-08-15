@@ -74,7 +74,6 @@ class Game {
   checkForWin(target){
     const owner = target.token.owner;
     let win = false;
-    console.log('checkforwin called');
     // vertical
     for (let x = 0; x < this.board.columns; x++ ){
         for (let y = 0; y < this.board.rows - 3; y++){
@@ -83,7 +82,6 @@ class Game {
                 this.board.spaces[x][y+2].owner === owner && 
                 this.board.spaces[x][y+3].owner === owner) {
                     win = true;
-                    console.log(win);
             }           
         }
     }
