@@ -6,7 +6,6 @@ const routes = require("./routes");
 app.use(express.json());
 app.use("/api", routes);
 
-// Send a GET request to READ(view) /quotes:id a random quote
 app.use((req, res, next) => {
   const err = new Error("Not Found");
   err.status = 404;
