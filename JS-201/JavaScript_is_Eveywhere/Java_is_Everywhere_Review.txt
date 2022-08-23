@@ -1,0 +1,17 @@
+1. What committee evolves JavaScript by deciding what features get added to the language?
+- TC39
+
+2. What organization standardized JavaScript?
+- ECMA International
+
+3. What does "vanilla" or "pure" JavaScript mean?
+- Native, standards-based JavaScript
+
+4. Is JavaScript closely related to Java?
+- No. Apart from being programming languages, they have nothing in common
+
+5. Which of the following is a type checking language and a superset of JavaScript?
+- TypeScript
+
+6. JavaScript was first introduced in what web browser?
+- Netscape Navigator

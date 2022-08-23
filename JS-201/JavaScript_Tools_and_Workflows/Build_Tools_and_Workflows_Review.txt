@@ -1,0 +1,27 @@
+1. What tool combines all of your source code and its dependencies into a single, minified JavaScript file before it's served to the browser?
+
+- Module bundler
+
+2. What tool installs and keeps track of all the dependencies of a project?
+
+- Package manager
+
+3. Which of the following is a popular JavaScript library built and maintained by Facebook?
+
+- React
+
+4. For larger, more advanced applications developers usually set up a \_\_ to automate their workflow, increase efficiency, and build projects faster.
+
+- Build system
+
+5. Anything you might do manually over and over again could be automated and handed off to a:
+
+- Task runner
+
+6. The \_\_ gives you control over the functionality of a computer, that way you can install and run packages, libraries and build tools quickly and efficiently
+
+- Command line
+
+7. A \_\_\_\_translates source code written using a special type of syntax into code that can work in the browser.
+
+- Compiler

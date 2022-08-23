@@ -1,0 +1,23 @@
+1. What type of programming language is Javascript?
+
+- Dynamic
+
+2. In JavaScript, you can manipulate almost everything at runtime.
+
+- True
+
+3. Every browser has its own implementation of:
+
+- JavaScript engine
+
+4. V8 is a powerful, open source JavaScript engine for which browser?
+
+- Chrome
+
+  5.Besides the browser, what is another common JavaScript runtime environment?
+
+- Node.js
+
+6. A \_\_ reads your code to check for code style consistency as well as spot possible errors.
+
+- Linter
