@@ -1,0 +1,24 @@
+1. What part of the getJSON function is considered a callback?
+
+- The function assigned to xhr.onload
+
+2. Please fill in the correct answer in each blank provided below. Pass addEventListener() a reference to the handleChange function
+
+- handleChange
+
+3. A callback function in an asynchronous program executes at some point later, once the parent function receives the data it needs.
+
+- True
+
+4. Please fill in the correct answer in each blank provided below.
+   Set the makeMeal function to invoke the callback function passed to it.
+
+- cb()
+
+5. Why is the order of DOM events processed asynchronously?
+
+- To prevent the browser from getting flooded with different events happening all at once
+
+6. Which of the following best describes "the pyramid of doom"?
+
+- Multiple callbacks are nested one after the other, making your code difficult to understand and maintain

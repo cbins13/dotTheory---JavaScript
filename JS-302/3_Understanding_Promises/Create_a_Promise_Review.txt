@@ -1,0 +1,23 @@
+1. Which method returns a promise object that is resolved with a given value?
+
+- resolve()
+
+2. The default state of a promise is:
+
+- pending
+
+3. Please fill in the correct answer in each blank provided below. Complete the code by writing the method that gets the resolved value out of the promise returned by dataPromise.
+
+- then
+
+4. Promises let you handle errors (or rejected promises) with a method called:
+
+- catch()
+
+5. Please fill in the correct answer in each blank provided below. Complete the code by defining the constructor that creates a promise:
+
+- Promise
+
+6. A promise represents:
+
+- The eventual completion of an asynchronous operation

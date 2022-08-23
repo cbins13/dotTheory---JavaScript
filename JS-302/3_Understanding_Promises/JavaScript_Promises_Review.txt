@@ -1,0 +1,21 @@
+1. Promise.all() rejects the entire promise if any of the promises passed to it fail.
+
+- True, Promise.all is an "all or nothing" operation. Either all of the promises passed to it succeed or none of them do.
+
+2. What does the fetch() method return?
+
+- fetch() returns a Promise that resolves to a Response object
+
+3. Which method gets called once a promise is fully settled, regardless of whether the promise is fulfilled or rejected?
+
+- finally()
+
+4. Which of the following best describes Promise.all()?
+
+- Promise.all joins multiple individual promises into a single returned Promsie when all of the promises resolve.
+
+5. Please fill in the correct answer in each blank provided below. Complete the code by using the method that fetches resources across the network, and the method that parses a Response stream to JSON.
+
+- fetch , json
+  6.What mandatory argument does the fetch() method take?
+- The path to the resource to fetch
