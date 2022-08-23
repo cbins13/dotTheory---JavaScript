@@ -1,0 +1,19 @@
+1. Which of the following operators is called a "strict equality" operator and used to test if two values are exactly the same?
+
+- ===
+
+2. Which JavaScript data type evaluates to either true or false?
+
+- Boolean
+
+3. Consider the code below; What is the value of the variable itemToBuy after the above code runs?
+
+- 'Computer'
+
+4. Which of the following is a valid conditional statement?
+
+- if...else if... else...
+
+5. In a conditional statement with one if clause, two else if clauses and an else clause, what is the maximum number of code blocks in that conditional statment that can run?
+
+- 1
