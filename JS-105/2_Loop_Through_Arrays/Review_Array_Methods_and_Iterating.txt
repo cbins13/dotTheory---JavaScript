@@ -1,0 +1,19 @@
+1. Please fill in the correct answer in each blank provided below. Complete the code below to assign the totalScores variable the number of elements in the scores array:
+
+- length
+
+2. Please fill in the correct answer in each blank provided below. Complete the code by adding the array method that combines all of the elements in an array into a single string:
+
+- join
+
+3. Please fill in the correct answer in each blank provided below. Complete the code below by writing the method that checks whether the colors array hold the value firebrick among its entries:
+
+- includes
+
+4. What will the JavaScript console display when the below runs?
+
+- 3
+
+5. Please fill in the correct answer in each blank provided below. Complete the code to log each element in the times array to the console:
+
+- i
