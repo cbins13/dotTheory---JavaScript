@@ -1,0 +1,23 @@
+1. Do you always need to use a counter or specify an exact number of times that a loop must run?
+
+- No. All you need is a condition that, at some point, evaluates to false so that the loop can end.
+
+2. Please fill in the correct answer in each blank provided below. Complete this code by including the shorthand operator that increases the value assigned to counter by one each time through the loop:
+
+- ++
+
+3. Given the code below, what will print to the console?
+
+- Goodbye
+
+4. Please fill in the correct answer in each blank provided below. Complete the code in the do...while loop to display the above output in the console:
+
+- do, i, 2, while
+
+5. Which of the following is an example of an infinite loop?
+
+- while (counter >= 0)
+
+6. Given the code below, what will display in the console?
+
+- Hello Goodbye
