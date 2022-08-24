@@ -1,0 +1,19 @@
+1. What is a word for solutions to common problems in software?
+
+- Patterns
+
+2. In order to use node modules in a file, they need to be _ using the _ method
+
+- required, require
+
+3. Using a web framework gives you mroe control because it requires you to build all the low level services any application needs, increasing the control you have as a developer.
+
+- False
+
+4. Which of the following is NOT one of the primary tools we will use in this course?
+
+- An IDE
+
+5. To start a node project in a dierectory without a package.json file run the following command:
+
+- npm init

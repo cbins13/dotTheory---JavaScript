@@ -1,0 +1,19 @@
+1. Templates are stored on \_.
+
+- The server
+
+2. Templates are static, in other words their content does not change.
+
+- False
+
+3. Which of the following is NOT a common JavaScript templating language:
+
+- haml
+
+4. The only template language that can be used with Express is Jade.
+
+- False
+
+5. Template rendering is unique to Express, and is not used in most web frameworks.
+
+- False

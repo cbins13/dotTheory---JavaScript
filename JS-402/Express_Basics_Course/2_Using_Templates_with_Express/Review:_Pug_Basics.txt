@@ -1,0 +1,19 @@
+1. How do you nest one element inside another in a Pug template?
+
+- Indent the nested under the enclosing element
+
+2. Why is template rendering so important?
+
+- It allows developers to reuse more of their code.
+
+3. The response object's `render` method takes the name of a template as its first parameter. The file extension (e.g. `.pug`) is required.
+
+- False
+
+4. In order to use Pug in your app, all of the following need to be true, EXCEPT:
+
+- Your pug templates are always stored in a folder called "views"
+
+5. In Pug's syntax, which of the following is NOT a correct assignment of the class `nav` to a `div`:
+
+- div("nav")

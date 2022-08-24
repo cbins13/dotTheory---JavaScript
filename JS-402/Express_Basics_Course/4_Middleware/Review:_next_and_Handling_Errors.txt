@@ -1,0 +1,19 @@
+1. What is the behavior of an app where middleware calls neither next nor sends a response to the client?
+
+- The app appears to hang indefinitely
+
+2. What is one reason it's important to handdle errors in an application?
+
+- It helps users understand how to interact with your app
+
+3. How do you tell express about an erro that needs to be handled?
+
+- Pass it into the next function
+
+4. The next function must always be called to end a middleware function.
+
+- False
+
+5. What HTTP Status code correlates with a message of "Not Found"
+
+- 404

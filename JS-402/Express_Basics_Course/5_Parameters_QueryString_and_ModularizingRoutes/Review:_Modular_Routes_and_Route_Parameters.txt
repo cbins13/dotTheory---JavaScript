@@ -1,0 +1,19 @@
+1. express.Router() creates an object that behaves similar to the app object.
+
+- True
+
+2. How do you create a router instance in a router file?
+
+- express.Router()
+
+3. How can an express app get access to a route parameter?
+
+- From the req.params object
+
+4. If you have an app with "birds" routes declared this way: and there is the following route in the birds file: what URL would match the route above?
+
+- /birds/south-american
+
+5. Why is it a good idea to keep routes in files separate from the main app?
+
+- As the app grows, this will keep your code well organized.

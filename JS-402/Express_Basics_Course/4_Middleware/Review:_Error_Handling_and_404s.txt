@@ -1,0 +1,19 @@
+1. What does a 404 error mean?
+
+- Express couln't math the requested route to any of it's route handlers.
+
+2. Where is the best place to put middleware that creates a 404 error?
+
+- After all the other routes have been declared
+
+3. How is error handling middleware differentiated from other middleware?
+
+- It has four parameters as opposed to three
+
+4. What happens if we don't implement our own error handler in an express app?
+
+- Express handles errors with default middleware
+
+5. Locals can be set directly on the response object, on the local property.
+
+- True
