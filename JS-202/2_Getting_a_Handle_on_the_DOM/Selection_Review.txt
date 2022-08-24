@@ -1,0 +1,19 @@
+1. How can you access and apply changes to all elements in an HTMLCollection?
+
+- Iterate over the collection with a loop such as for or for...of
+
+2. getElementById(), getElementsByTagName(), and getElementsByClassName() are methods of what object?
+
+- document
+
+3. What array-like object does document.getElementsByClassName() return?
+
+- HTMLCollection
+
+4. What does document.getElementById() method return?
+
+- An Element object representing the element with the specified ID
+
+5. How would you select the body element using document.getElementsByTagName, and store it in the variable body?
+
+- body, 0
