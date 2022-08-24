@@ -1,0 +1,23 @@
+1. Please fill in the correct answer in each blank provided below. Complete the code below so that the function returns the value stored in the message variable.
+
+- return message
+
+2. Please fill in the correct answer in each blank provided below. In the function below, set the default value of the partOfDay parameter to 'morning'
+
+- = 'morning'
+
+3. When calling a function with default parameters, which keyword acts as a placeholder for the argument you want to skip?
+
+- undefined
+
+4. How do progarammers describe the act of running the programming within a function:
+
+- To "call" a function
+
+5. Default parameter values can only be strings.
+
+- False. They can be any value, like a boolean, number, function, or string.
+
+6. What is "scope" is JavaScript?
+
+- The context in which a variable can be accessed, such as within a function, or within the global scope of the entire program.

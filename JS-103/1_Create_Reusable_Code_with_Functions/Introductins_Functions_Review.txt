@@ -1,0 +1,19 @@
+1. Which of the following best describes a function?
+
+- A function lets you store a block of code that you can use over and over again.
+
+2. What keyword do you use to create a function in JavaScript?
+
+- function
+
+3. Which of the following code snippets correctly shows how to create a function named sayHello, which opens an alert dialog with the string "Hello" in it?
+
+- function sayHello() { alert("Hello");}
+
+4. How would you "call a function" named sayHello?
+
+- Type the name of the function followed by parentheses: sayHello();
+
+5. Are functions a common part of JavaScript programming?
+
+- Yes. Functions group a series of statements (or instructions) together to perform a specific task needed by the program.

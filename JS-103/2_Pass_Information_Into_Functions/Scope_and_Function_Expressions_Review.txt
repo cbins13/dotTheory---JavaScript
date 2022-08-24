@@ -1,0 +1,27 @@
+1. Which of the following is an example of a function expression?
+
+- const addTwo = function(number){return number+2};
+
+2. What is "global scope"?
+
+- When a variable is accessible anywhere inside a program -- in the body of the program and within functions.
+
+3. Given the code below, what appears in the alert dialogue when the program runs?
+
+- "Goodbye"
+
+4. Please fill in the correct answer in each blank provided below. Finish the code bwlo so that the variable counter is only accessible inside the getCount functions:
+
+- let
+
+5. Given the code below, what appears in the alert dialogue when this program runs?
+
+- "Trish"
+
+6. The JavaScript engine moves function declarations to the top of their scope before code execution. This behavior is called:
+
+- hoisting
+
+7. Consider the code below; The function assigned to the multiply variable is known as:
+
+- an anonymous function
