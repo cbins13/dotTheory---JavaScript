@@ -1,0 +1,19 @@
+1. The active property on the Player class holds a(n):
+
+- boolean
+
+2. The Game object's ready property tells us:
+
+- Whether the game can be interacted with
+
+3. What's the purpose of "creator methods"?
+
+- To routinely create several objects at once in a way that's organized and neat.
+
+4. The Board object's spaces property holds a(n):
+
+- two-dimensional array of Space objects
+
+5. The number 21 is passed as an argument to the createTokens() method because there are 21 spaces on the board.
+
+- False

@@ -1,0 +1,15 @@
+1. Please fill in the correct answer in each blank provided below. The mark() method is available on the \_ class.
+
+- Space
+
+2. Please fill in the correct answer in each blank provided below. The switchPlayer() method updates the \_ property of the Player object?
+
+- active
+
+3. updateGameState() is a callback function passed to the playToken() method.
+
+- False
+
+4. The gameOver() method receives the message to be output in the browser as a parameter.
+
+- True

@@ -1,0 +1,19 @@
+1. The active token should be able to move left only if it's not already in the left-most column.
+
+- True
+
+2. What action triggers the playToken() method?
+
+- Pressing the down arrow key
+
+3. What is the target argument that's passed to the drop() method on the Token class?
+
+- The Space object that teh token is dropped into
+
+4. What does the handleKeydown() method do?
+
+- Branches the code based on what key a player presses
+
+5. Players move their tokens using the mouse.
+
+- False
