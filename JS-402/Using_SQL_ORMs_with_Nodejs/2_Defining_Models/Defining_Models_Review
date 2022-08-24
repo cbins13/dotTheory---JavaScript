@@ -1,0 +1,23 @@
+1. Which method do you use to initialize and configure a model?
+
+- .init()
+
+2. Models map JavaScript objects to relational database tables.
+
+- True
+
+3. Please fill in the correct answer in each blank provided below. Complete the code below by adding the data type that prevents empty strings when creating a model instance:
+
+- notEmpty
+
+4. Please fill in the correct answer in each blank provided below. Complete the code by adding the property that specifies a validation object:
+
+- validate
+
+5. Please fill in the correct answer in each blank provided below. Complete the code by adding the property that sets a custom message when validation fails:
+
+- msg
+
+6. Please fill in the correct answer in each blank provided below. Complete the code by adding the validator that allows a date string that is on or after a specific date:
+
+- isAfter
