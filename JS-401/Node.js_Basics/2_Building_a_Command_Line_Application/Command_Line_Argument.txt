@@ -1,0 +1,7 @@
+1. With which global object can we access the current version of node and any arguments passed into the command line?
+
+- process
+
+2. The command line arguments can be accessed through which property on the process object?
+
+- argv

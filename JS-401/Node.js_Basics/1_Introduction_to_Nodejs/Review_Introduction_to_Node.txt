@@ -1,0 +1,19 @@
+1. Node.js is:
+
+- non-blocking
+
+2. If I had a file named index.js how would I run that in the Node.js environment?
+
+- node index.js
+
+3. Please fill in the correct answer in each blank provided below. The \_ keyword activates the REPL
+
+- node
+
+4. The Array object is what type of object?
+
+- Native
+
+5. Node.js is a:
+
+- Runtime Environment

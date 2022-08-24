@@ -1,0 +1,11 @@
+1. What object do you use to access the short descriptions for standard HTTP status codes?
+
+- http.STATUS_CODES
+
+2. If I had a file stocks.js and wanted to require it in another JavaScript file in the same directory would this work?
+
+- Yes
+
+3. Given the following code what will happen?
+
+- The namem of "Lauren" will be printed out.

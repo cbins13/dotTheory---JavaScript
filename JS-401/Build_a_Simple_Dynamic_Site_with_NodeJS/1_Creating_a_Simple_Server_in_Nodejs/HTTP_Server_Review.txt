@@ -1,0 +1,16 @@
+1. What is the output from the following code?
+- Hellow World, Goodbye World
+2. This HTTP sever is running on which IP address?
+- 192.168.10.10
+3. What is an example of an HTTP Server?
+- NGINX
+4. Please fill in the correct answer in each blank provided below. This HTTP server is listening on port _.
+- 8080
+5. What is the output from the following code?
+- 5,4,3,2,1,0 Blast off
+6. Please fill in the correct answer in each blank provided below. The way computers agree to talk to each other is called a _.
+- protocol
+7. What is the local IP address assigned to all computers?
+- 127.0.0.1
+8. Please fill in the correct answer in each blank provided below.This HTTP server is listening on port _
+- 3000
