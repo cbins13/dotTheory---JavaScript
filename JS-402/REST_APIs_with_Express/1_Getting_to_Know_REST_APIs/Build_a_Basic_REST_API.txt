@@ -1,0 +1,19 @@
+1. Data for a REST API must be kept in a database.
+
+- False
+
+2. Please fill in the correct answer in each blank provided below. Look at the code sample below. Use the correct Express method to send the response as JSON.
+
+- res, json
+
+3. If we defined an Express route for a GET request to ‘shoes/:id’, what might the response contain?
+
+- A specific pair of shoes from a datastore
+
+4. What might a POST request to the endpoint /flowers do?
+
+- Create one new flower
+
+5. What might a PUT request to an endpoint /flowers/1222 do?
+
+- Update a specific flower

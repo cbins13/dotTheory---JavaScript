@@ -1,0 +1,23 @@
+1. What method on the response object sends respnse data as JSON?
+
+- res.json()
+
+2. Describe what the following Express route is mostly likely to do:
+
+- Create a new product in a datastore
+
+3. What might a PUT request to the /cars/2345 endpoint do?
+
+- Update data in a dtatstore for a car with an ID of 2345
+
+4. How is an error handling middleware function different than a regular middleware function?
+
+- The function has four parameters, and the first parameter represents the error object
+
+5. Which endpoint retrieves a specific item in a grocery list?
+
+- /api/groceries/332343
+
+6. Which of the following is an example of Express error handling middleware?
+
+- app.use((err,req,res,next) => {...});

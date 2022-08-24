@@ -1,0 +1,23 @@
+1. The await keyword can be used inside of any regular JavaScript function
+
+- False
+
+2. What is an example of an asynchronous task?
+
+- Requesting information from a database
+
+3. This approach to asynchronous programming allows you to specify when JavaScript should wait for a function to return a result before moving on to the next line of code.
+
+- Async/Await
+
+4. This approach to asynchronous programming provides a then() method that you can use to chain together a series of asynchronous functions:
+
+- Promises
+
+5. What is a potential pitfall of using callbacks to handle asynchronous tasks?
+
+- Many nested functions can cause a "Pyramid of Doom" which can make the logic difficult to follow
+
+6. This approach to asynchronous programming uses nested functions to ensure asynchronous tasks are handled in the desired order:
+
+- Callbacks

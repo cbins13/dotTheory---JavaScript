@@ -1,0 +1,13 @@
+1. Assuming getInfo() is an asynchronous function, what’s wrong with the following code?
+
+- The await keyword should be used with the getInfo() function call.
+
+2. What best describes an ORM?
+
+- A library that provides methods that make it easier to interact with database, such methods to retrieve, update or save data.
+
+3. Please fill in the correct answer in each blank provided below. Fill in the blank to use async/await syntax
+
+- async, await
+  4.Consider the following code. If a GET request were sent to the endpoint /people/5555, what would be the response?
+- The person in the datastore with an ID of 5555

@@ -1,0 +1,19 @@
+1. What does CRUD stand for?
+
+- Create, Read, Update, Delete
+
+2. What best describes what an API does?
+
+- Takes in requests and responds with JSON objects
+
+3. What is one benefit of building an application using a REST API?
+
+- Because it only returns data, you can use a REST API as the backend for numerous applications in flexible ways
+
+4. Which HTTP verbs match up with the action that can be performed on data with an API ?(create, read, update, delete)
+
+- POST, GET, PUT, DELETE
+
+5. How does a REST APi differ from a traditional serverside application?
+
+- A REST API application responds to requests with data such as JSON; a traditional serverside application responds to requests with HTML

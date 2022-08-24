@@ -1,0 +1,19 @@
+1. Consider the following code. If a GET request were sent to the endpoint /people/5555, what would be the response? Use the correct method to send a status of 201 back with the response.
+
+- status
+
+2. Please fill in the correct answer in each blank provided below. First use the correct Express method to set an HTTP status. Then send a code indicating that the client has sent a bad request:
+
+- status, 400
+
+3. Please fill in the correct answer in each blank provided below. Consider the following JSON object that’s been sent along with a PUT request. Using the req.body property, create a new object using the information sent from the client:
+
+- req.body.userName
+
+4. What does status code 500 mean?
+
+- There was a server error
+
+5. Please fill in the correct answer in each blank provided below. Assume we’ve just deleted some data in a datastore. Fill in the blank to end the request.
+
+- end
