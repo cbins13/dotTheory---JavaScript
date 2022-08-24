@@ -1,0 +1,15 @@
+1. Why are functions called "first-class citizens" in JavaScript?
+
+- Because they can be stored in variables or passed into functions like any other datatype.
+
+2. Hovering over the answer to this question is a DOM event.
+
+- True
+
+3. Why is it useful to be able to pass one function into another?
+
+- This allows you to have more control over when and how a function gets executed.
+
+4. Why are events useful?
+
+- Because we can tie behavior to them.
