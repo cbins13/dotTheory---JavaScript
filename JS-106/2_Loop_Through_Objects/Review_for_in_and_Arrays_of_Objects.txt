@@ -1,0 +1,23 @@
+1. Please fill in the correct answer in each blank provided below. Complete the code below to display every property and value of an object name location:
+
+- for, in
+
+2. What method returns an array containing a given object's property names?
+
+- .keys()
+
+3. Given the following JavaScript code; What will display in the JavaScript console?
+
+- make, model, year
+
+4. Given the following JavaScript object; Which of the following displays the values "Lee", "FSJS", and 14888 in the JavaScript console?
+
+- console.log(student [prop])
+
+5. What method returns an array containing a given object's property values?
+
+- .values()
+
+6. Can an array contain objects? Is the code below valid JavaScript?
+
+- Yes. It's common to store objects inside an array.
