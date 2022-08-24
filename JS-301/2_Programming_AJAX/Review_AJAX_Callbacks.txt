@@ -1,0 +1,19 @@
+1. What does an HTTP status code of 200 mean?
+
+- OK
+
+2. A variable name xhr contains an XMLHttpRequest Object. Which of these sends the AJAX request to the server?
+
+- xhr.send();
+
+3. What is the value of an XMLHttpRequest object's readyState when the browser has received all of the data from the server?
+
+- 4
+
+4. What does an HTTp status code of 404 mean?
+
+- File Not Found
+
+5. Which of the following correctly creates an XHR object?
+
+- var request = new XMLHttpRequest();

@@ -1,0 +1,19 @@
+1. AJAX is an acronym for what words?
+
+- Asynchronous JavaScript and XML
+
+2. What does AJAX let you do?
+
+- Update content on a web page without loading a new web page.
+
+3. Which server-side language does AJAX work with?
+
+- All of the above
+
+4. When a server answers an AJAX it sends back a ...
+
+- response
+
+5. You use AJAX to communicate with a web server by sending it a ...
+
+- request

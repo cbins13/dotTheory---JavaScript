@@ -1,0 +1,19 @@
+1. Which of these is a difference between GET and POST?
+
+- POST sends its data in the "body" of the request. GET sends data in the URL.
+
+2. What is a query string?
+
+- Information sent to the web server. It is added to the end of a URL.
+
+3. Which of these is an example of a valid query string?
+
+- http://server.com/page.php?name=Johnny+Depp&movie=Pirates+of+the+Caribbean%3A+Dead+Man%27s+Chest
+
+4. What is a common reason for using the GET HTTP Method to send an AJAX request?
+
+- When you're only interested in getting information from a web server.
+
+5. Why should you use the POST HTTP method with AJAX?
+
+- Answers B and C only.

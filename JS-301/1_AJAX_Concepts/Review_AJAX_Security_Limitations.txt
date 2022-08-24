@@ -1,0 +1,19 @@
+1. Why is a web proxy useful for AJAX requests?
+
+- It allows you to bypass a web browser's same-origin policy by retrieveing data from another servier, while keeping AJAX requests within the same domain.
+
+2. What does CORS stand for?
+
+- Cross-origin resource sharing
+
+3. Imagine you have a web page that is retrieved from http://www.myserver.com. Which of the following scenarios is NOT against a web browser's same-origin policy?
+
+- None of the above.
+
+4. When adding standard AJAX requests to your pages, you need to view that page through a web server in order to preview the results.
+
+- True
+
+5. What does JSONP stand for?
+
+- JSON with Padding

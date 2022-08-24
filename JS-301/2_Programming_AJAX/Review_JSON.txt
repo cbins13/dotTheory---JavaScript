@@ -1,0 +1,19 @@
+1. JSON stands for JavaScript Object Notation
+
+- True
+
+2. Which of the following is true about JSON properties?
+
+- Property names must be quoted using double quotes
+
+3. Which one of the following shows a correctly formatted JSON property name / value pair?
+
+- "course": "AJAX Basics"
+
+4. Which of the following is valid JSON?
+
+- Answers A, B, and D
+
+5. JSON data can be formatted in which of these ways?
+
+- All of the above
