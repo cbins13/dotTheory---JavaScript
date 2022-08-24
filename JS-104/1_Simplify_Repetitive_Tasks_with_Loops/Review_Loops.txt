@@ -1,0 +1,13 @@
+1. When should you use a loop?
+- When you want to repeat the same set of actions a certain number of times.
+2. Please fill in the correct answer in each blank provided below. Complete the code below to declare a counter variable and create a while loop:
+- let, while
+3. A loop repeats an action over and over again, or a given number of times, as long as a test condition evaluates to _
+- true
+4. Please fill in the correct answer in each blank provided below. Complete the code below so that the loop runs 10 times:
+- 10
+5. Why will the following loop never run?
+- The variable num begins with the value 0. The condition asks if that variable is greater than 20. 0 is not greater than 20, so the loop never runs.
+6. Which loop runs a block of code before checking the condition?
+- do...while
+7. do, while
