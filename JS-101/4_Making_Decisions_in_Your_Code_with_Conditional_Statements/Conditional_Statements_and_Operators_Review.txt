@@ -1,0 +1,27 @@
+1. Is an else clause required in a conditional statement?
+
+- No. The else clause is optional, but useful. It lets your run additioanl code if the condition is false.
+
+2. What should happen when the browser runs the code below?
+
+- The browser displays an alert dialog box with the message "Game over!"
+
+3. Which of the following is the logical NOT operator?
+
+- !
+
+4. Is the following condition true or false?
+
+- False. The strict equality operator (===) also checks the type of each value. A string is not equal to a number.
+
+5. Is the following condition true or false?
+
+- False, Since 'l' comes before 'z' in the alphabet, 'lion' is not greater than 'zebra'
+
+6. Is the following condition true or false?
+
+- True. The first string has all lowercase letters, and the second does not. A lowercase 'j' isn't equal to an uppercase 'J'.
+
+7. Is the following condition true or false?
+
+- True. The number 5 is larget than(or greater than) the number 2.

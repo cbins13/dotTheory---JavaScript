@@ -1,0 +1,19 @@
+1. Can you use JavaScript on a web server?
+
+- Yes, using Node.js
+
+2. JavaScript lets you add interactive components to a site like photo galleries, tabbed panels, or form validation.
+
+- True
+
+3. JavaScript is used to build complex web applications, like Gmail, Google Docs, and Google Maps
+
+- True
+
+4. A quick way to run JavaScript is in the web browser's developer tools, using a tool colled:
+
+- the JavaScript console
+
+5. What does "syntax" mean?
+
+- Syntax is like the vocabulary and grammar of a programming language. It's a language's words and commands as well as the instructions for putting them together to create a program.

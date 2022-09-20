@@ -1,0 +1,19 @@
+1. Please fill in the correct answer in each blank provided below. Complete this code by adding the string property that returns the number of characters inside the string:
+
+- length
+
+2. Which of the following is a method?
+
+- .toUpperCase()
+
+3. Please fill in the correct answer in each blank provided below. In the code below, complete the string stored in the message variable:
+
+- "
+
+4. Which of the following is an example of a string?
+
+- "Hello world!"
+
+5. Which of the following creates the variable message and stores a string value in it?
+
+- let message = "These are not the droids you're looking for";

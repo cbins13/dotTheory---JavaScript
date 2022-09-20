@@ -1,0 +1,23 @@
+1. When a browser "executes" a JavaScript program, what is the browser doing?
+
+- The browser reads and acts on the JavaScript programming. This is also called "running" the program.
+
+2. What is a "syntax error"?
+
+- A "grammatical" mistake like mistyping a JavaScript command or forgetting a closing parentheses or quote mark.
+
+3. Which of the following JavaScript commands instructs a browser to open a dialog box with a message?
+
+- alert()
+
+4. When adding JavaScript to a web page, where can you put your JavaScript code?
+
+- All options
+
+5. Please fill in the correct answer in each blank provided below. Complete the following code so that the message "Program complete" writes to the browser's JavaScript console:
+
+- log
+
+6. What is one benefit of putting your JavaScript code just before the closing </body> tag on a web page?
+
+- Users view the contents of a web page before the JavaScript program runs.

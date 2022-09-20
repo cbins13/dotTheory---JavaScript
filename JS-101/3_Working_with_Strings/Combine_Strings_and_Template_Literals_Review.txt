@@ -1,0 +1,23 @@
+1. Please fill in the correct answer in each blank provided below. Complete the code below to create a template literal:
+
+- ``
+
+2. Which of the following creates the string 'Hello world'?
+
+- 'Hello' + ' world'
+
+3. Which of the following code examples logs Total points: 500 to the console?
+
+- let total = `Total points: ${points + bonusPts}`;
+
+4. The process of combining one or more strings is called:
+
+- concatenation
+
+5. Please fill in the correct answer in each blank provided below. Complete the code below to recreate the above code using template literal interpolation:
+
+- `${name}`
+
+6. Please fill in the correct answer in each blank provided below. Complete this code by adding the operator that produces the same result as the above code:
+
+- +=

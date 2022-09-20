@@ -1,0 +1,23 @@
+1. Which of the following produces an Uncaught SyntaxError?
+
+- let numberToGuess = 5; let numberToGuess= 20; console.log(numberToGuess);
+
+2. Which of the following statements is invalid JavaScript?
+
+- constweeksPerYear = 52;
+
+3. Please fill in the correct answer in each blank provided below. Complete the variable declaration by adding the keyword that does not allow the value stored in price to change:
+
+- const
+
+4. Consider the following code; How can you re-writet the variable reassignment using a shorthand syntax?
+
+- let correct =0 ; correct += 1;
+
+5. It's not best to use the const keyword in which of the following variable declarations:
+
+- a variable used to track a player's score
+
+6. What happens when the code below runs?
+
+- An Uncaught TypeError is logged to the console

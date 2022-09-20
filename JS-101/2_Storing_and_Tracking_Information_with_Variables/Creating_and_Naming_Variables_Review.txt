@@ -1,0 +1,12 @@
+1. Which of the following creates a variable name playerName and stores the name "Reggie" in it?
+- var playerName = "Reggie";
+2. Please fill in the correct answer in each blank provided below. Add the code that logs the value stored in the greeting variable to  the console:
+- greeting
+3. Which of the following is NOT a valid variable name in JavaScript?
+- var
+4. Please fill in the correct answer in each blank provided below. Finish the code below to create a variable named shipsLeft containing the number 10.
+- var/const
+5. Which of the following is a valid variable name in JavaScript?
+-  $perPound
+6. All of the variable names below are OK to use in a JavaScript program. However, which one is the best choice?
+- var message
