@@ -1,0 +1,19 @@
+1. Given the following code; What type of value is stored in the variable userAge?
+
+- string
+
+2. Which of the following is an example of a number using scientific notation?
+
+- 9e-6
+
+3. Which of these is an example of an integer?
+
+- -112345, 127
+
+4. Which of the following is a floating point number?
+
+- 3.14
+
+5. Which of the following stores the number 225,622 in the variable milesToTheMoon?
+
+- const milesToTheMoon = 225622;

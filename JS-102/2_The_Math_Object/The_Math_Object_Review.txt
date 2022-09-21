@@ -1,0 +1,19 @@
+1. Which function rounds a number up to the next largest whole number or integer?
+
+- Math.ceil()
+
+2. Please fill in the correct answer in each blank provided below. Complete the following code so that the results of this math operation are rounded down to the nearest integer. For exaple, .6 will be rounded to 0.
+
+- floor
+
+3. What does Math.random() do?
+
+- It produces a random number from 0 up to but not including 1. For example, it could return 0, 0.3, but never 1.
+
+4. What will appear in the JavaScript console after this code runs?
+
+- 4
+
+5. Which of the following code produces a random number from 1 to 6 and stores it inside a variable named dieRoll?
+
+- const dieRoll = Math.floor( Math.random() * 6) + 1;

@@ -1,0 +1,19 @@
+1. What will appear in the JavaScript console after this code runs? (parseInt('7 days a week'))
+
+- 7
+
+2. Please fill in the correct answer in each blank provided below. In the code below, use the operator that returns the type of the variable totalStudents:
+
+- typeof
+
+3. What will appear in the JavaScript console after this code runs? (parseInt ('.5 FTE'))
+
+- NaN
+
+4. In math, if you surround part of an equation in parenthesis, it means it should be calculated before the normal order of operations. The same holds true in JavaScript. Determine what the answer is to the following equation:
+
+- 16
+
+5. Which of the following converts a string to a number?
+
+- The unary plus (+)

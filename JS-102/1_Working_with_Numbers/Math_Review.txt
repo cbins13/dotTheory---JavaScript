@@ -1,0 +1,23 @@
+1. Please fill in the correct answer in each blank provided below. Complete the code below to add the numbers 101 and 20:
+
+- -
+
+2. Please fill in the correct answer in each blank provided below. Complete the code below to divide 12 by 3:
+
+- /
+
+3. Please fill in the correct answer in each blank provided below. Complete the code below to subtract 3.177 from -128.100
+
+- -
+
+4. Please fill in the correct answer in each blank provided below. Complete the code below to multiply 653 by 10.2
+
+- -
+
+5. Which of the following adds 20 to the current value of the variable points, then stores the results back into points.
+
+- points = 20 + points
+
+6. Please fill in the correct answer in each blank provided below. Use the shorthand operator that adds 20 to the current value of the variable points, then stores the result back into points.
+
+- +=
