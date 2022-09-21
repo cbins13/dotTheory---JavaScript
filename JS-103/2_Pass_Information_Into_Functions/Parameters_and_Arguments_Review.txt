@@ -1,0 +1,10 @@
+1. Select the answer(s) that show an example of passing an argument to a function.
+- All options selected
+2. Please fill in the correct answer in each blank provided below. Complete the code below to call the function and pass the value 12 to it:
+- getRandom(12)
+3. When talking about JavaScript functions, what is a "parameter"?
+- A variable in which the function stores information passed to it.
+4. When talking about JavaScript function, what is an "argument"?
+- A value that you pass to a function when you call the function.
+5. Can you pass as many arguments as you'd like to a function?
+- Yes. However, calling a function with more than 4 or 5 arguments can make the function harder to read and use.

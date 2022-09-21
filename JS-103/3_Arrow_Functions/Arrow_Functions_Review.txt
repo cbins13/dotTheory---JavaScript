@@ -1,0 +1,19 @@
+1. Which of the following code examples is functionally the same as the above function?
+
+- const square = x => {return x\*x};};
+
+2. Which of the following code examples is functionally equivalent to the function expression above?
+
+- const sayYay = () => "Yay!";
+
+3. Are arrow functions hoisted to the top of their scope?
+
+- No, just like function expressions are not hoisted.
+
+4. Please fill in the correct answer in each blank provided below. Complete the code below to create an arrow function with two parameters: greeting and name:
+
+- (greeting, name)
+
+5. Please fill in the correct answer in each blank provided below. Complete the code below to create an arrow function:
+
+- =>

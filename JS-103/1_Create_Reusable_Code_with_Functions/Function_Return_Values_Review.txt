@@ -1,0 +1,19 @@
+1. Can you have more than one return statement in a function?
+
+- Yes, However, only one ever runs.
+
+2. Can a JavaScript function return several values at once? For example:
+
+- No. A function can only return a single value. For example, a variable, string, number or Boolean value.
+
+3. Which JavaScript keyword is used to send back a value from a function?
+
+- return
+
+4. What does the JavaScript return statment do?
+
+- return exits a function and sends a value back to the spot in the program where the function was called.
+
+5. After the code below runs, what value is stored in the variable dayOfWeek:
+
+- "Monday"
