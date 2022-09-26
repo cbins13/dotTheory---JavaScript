@@ -1,0 +1,11 @@
+1. What is DOM Traversal?
+
+- Selecting an element based on its relationship to another element within the DOM
+
+2. Please fill in the correct answer in each blank provided below. In the code below, the constant div contains a reference to a DOM element. Select its parent node and store that in the constant parentOfDiv.
+
+- div.parentNode
+
+3. Please fill in the correct answer in each blank provided below. Using DOM traversal, assign all children of the ul to the constant lis
+
+- .children
