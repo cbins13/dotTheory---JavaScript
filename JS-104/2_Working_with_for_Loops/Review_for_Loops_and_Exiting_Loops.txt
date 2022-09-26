@@ -1,0 +1,23 @@
+1. Which of the following statements forces the JavaScript engine to exit a loop even when the loop condition is still true?
+
+- break;
+
+2. Which of the code blocks below works the same as the following while statement:
+
+- for(let i=0; i<5; i++)
+
+3. How many times will the following loop run?
+
+- 11
+
+4. What causes an infinite loop?
+
+- When the loop's condition never evaluates to false.
+
+5. Consider the following code examples. All but one of them is an infinite loop. Choose one that is NOT an infinite loop.
+
+- for(let i=0; i<100; i+=10)
+
+6. Please fill in the correct answer in each blank provided below. Complete the code below to create a for loop that executes 10 times, logging the value of the variable i to the console each time:
+
+- for, 10
