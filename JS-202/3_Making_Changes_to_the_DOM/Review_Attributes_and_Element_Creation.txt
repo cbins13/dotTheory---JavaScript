@@ -1,0 +1,19 @@
+1. Please fill in the correct answer in each blank provided below. Complete the code below using the property that changes an element's style with JavaScript:
+
+- style
+
+2. What property can you use to get and set the value of an element's class attribute?
+
+- className
+
+3. Please fill in the correct answer in each blank provided below. How would you set and element's CSS display property to "none" with JavaScript?
+
+- style,display,none
+
+4. Please fill in the correct answer in each blank provided below. Complete the code using the method that creates a new h1 element:
+
+- createElement, h1
+
+5. When creating an element with the createElement() method, is the new element inserted into the document?
+
+- No. Newly created elements won't appear on the page until you add them to the DOM.

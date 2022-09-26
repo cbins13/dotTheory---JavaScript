@@ -1,0 +1,23 @@
+1. The \_ is an object-based representation of a web page. It's what developers use to program a web page using JavaScript.
+
+- DOM (Document Object Model)
+
+2. The document object is a property of what global object?
+
+- window
+
+3. You use the document object to select and control elements of the currently loaded web page.
+
+- True
+
+4. The DOM represents a web page (or HTML document as a tree-like structure).
+
+- True
+
+5. Interactivity with JavaScript involves which three basic actions?
+
+- Selecting elements, manipulating elements, listening for user actions
+
+6. What is the document object?
+
+- An object that returns a reference to the document contained in the window - it's the entry point into the DOM

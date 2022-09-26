@@ -1,0 +1,19 @@
+1. Can the append() method also remove elements(or nodes) from the DOM?
+
+- No. append() only inserts a new node after the last child of the specified parent.
+
+2. Please fill in the correct answer in each blank provided below. Place the newly created div element as the last hild of the element assigned to the container variable:
+
+- container, item
+
+3. How does the append() method insert an element into the document?
+
+- append() inserts a new element inside the specified parent node.
+
+4. What method can you use to remove an element from the DOM?
+
+- remove()
+
+5. Which DOM insertion method accepts two arguments, a specified position and a string that gets parsed as HTML?
+
+- insertAdjacentHTML()

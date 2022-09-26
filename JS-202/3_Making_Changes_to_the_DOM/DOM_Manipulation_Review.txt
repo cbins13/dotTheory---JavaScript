@@ -1,0 +1,11 @@
+1. Please fill in the correct answer in each blank provided below. Complete the code below using the method that creates and HTML element. The method should create a paragraph element.
+
+- createElement, p
+
+2. Please fill in the correct answer in each blank provided below. Next, complete the code below using the property that sets the class attribute of the new paragraph to intro.
+
+- className
+
+3. Please fill in the correct answer in each blank provided below. Finally, add the method that inserts the paragraph asa child of contentDiv
+
+- append, paragraph
