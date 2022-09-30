@@ -1,0 +1,19 @@
+1. What is one characteristic of "asynchronous" AJAX requests?
+
+- Callbacks for multiple AJAX requests may not run in the order the requests were sent.
+
+2. What type of JavaScript object do web browsers use to manage AJAX requests?
+
+- XMLHttpRequest Object
+
+3. What are the 4 steps of an AJAX request?
+
+- 1.Create XMLHttpRequest Object, 2.Create callback function, 3.Open Request, 4.Send Request
+
+4. The term "XMLHttpRequest object" is often shortened to which of the following?
+
+- XHR Object
+
+5. AJAX is the W3C's official term for an XMLHttpRequest.
+
+- False

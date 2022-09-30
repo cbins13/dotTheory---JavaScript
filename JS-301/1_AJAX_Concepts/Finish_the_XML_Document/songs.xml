@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+    <song>
+        <title>My Way</title>
+        <artist>Frank Sinatra</artist>
+    </song>
+    <song>
+        <title>Fly me to the Moon</title>
+        <artist>Frank Sinatra</artist>
+    </song>
+    <song>
+        <title>Put Your Head on My Shoulder</title>
+        <artist>Paul Anka</artist>
+    </song>
+    <song>
+        <title>A Man Without Love</title>
+        <artist>Englebert Humperdinck</artist>
+    </song>
+</songs>

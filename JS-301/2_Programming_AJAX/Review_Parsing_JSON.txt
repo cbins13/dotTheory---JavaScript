@@ -1,0 +1,11 @@
+1. Which of the following is a web browser's method for turning a JSON string into a JavaScript object?
+
+- JSON.parse()
+
+2. When a web server sends JSON-formatted data, what is it sending?
+
+- string
+
+3. What will appear in the alert dialog box when this code runs?
+
+- string

@@ -1,0 +1,15 @@
+1. What does XML stand for?
+
+- Extensible Markup Language
+
+2. Which of these is NOT a common AJAX response format?
+
+- Binary Files
+
+3. XML is the preferred format for AJAX responses because XML is the easiest format for JavaScript to work with.
+
+- False
+
+4. HTML and XML both use tags to mark up information
+
+- True
