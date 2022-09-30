@@ -1,0 +1,19 @@
+1. Arrays are "zero-based". What does that mean?
+
+- The index of the first element inside an array is 0 (not 1).
+
+2. Please fill in the correct answer in each blank provided below. Complete the code below to create an array that gets assigned to the variable shopping:
+
+- [,]
+
+3. Please fill in the correct answer in each blank provided below. Complete the code below to log the meesage "Arrays are awesome" to the console:
+
+- 3
+
+4. Which of the following best describes an array?
+
+- A collection of values you can assign to a single variable/
+
+5. Consider the following array; Which code snippet print the number 1 to the JavaScript console?
+
+- console.log(lottery[0])

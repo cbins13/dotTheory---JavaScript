@@ -1,0 +1,23 @@
+1. Please fill in the correct answer in each blank provided below. Complete the code by using the property that returns the number of elements in the attendees array:
+
+- attendees.length
+
+2. Which array method returns the first element from an array and removes it from the array?
+
+- shift()
+
+3. Can you use the push() method to add more than one element to an array at the same time? For example, is the following valid?
+
+- Yes. You can use push() to add any number of elements to the end of an array.
+
+4. Which array methods adds an element to the end of an array?
+
+- push()
+
+5. Please fill in the correct answer in each blank provided below. Complete the code below to add the value 23 to the beginning of the ages array:
+
+- unshift, 23
+
+6. Which of the following places the contents of one array into another array?
+
+- The spread operator(...)

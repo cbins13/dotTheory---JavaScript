@@ -1,0 +1,10 @@
+1. Which of the following is an example of a multidimensional array?
+- const scores = [["Andres", 89, 99],["Lora", 100, 97]]
+2. Please fill in the correct answer in each blank provided below. Say you have two arrays, itemsA and itemsB, and you want to combine them into a new array named allItems. Complete the code so that the new allItems array stores the elements from itemsA first, followed by the elements inside itemsB.
+- ...itemsA, ...itemsB
+3. Please fill in the correct answer in each blank provided below. Complete the code below using the method that returns the position of the darkred string inside the colors array:
+- indexOf
+4. Please fill in the correct answer in each blank provided below. Complete the code below by accessing the values inside the second nested array. The console.log() statment would x: 1, y: 3.
+- 1,0 1,1
+5. What is the length value of the allTasks array after the above code runs?
+- 6
