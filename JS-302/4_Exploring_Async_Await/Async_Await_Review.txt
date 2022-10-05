@@ -1,0 +1,23 @@
+1. An aysnc function always returns:
+
+- a Promise
+
+2. Please fill in the correct answer in each blank provided below. Complete the code by writing the keyword that defines an asynchronous function, followed by the keyword that waits for the resolution of a Promise.
+
+- async, await, await
+
+3. The await keyword is valid only inside functions marked as async
+
+- True. If you use await outside an async function you will get a syntax error.
+
+4. What is one benefit of using async/await?
+
+- You write asynchronous code in a way that resembles synchronous code
+
+5. The most common way to handle exceptions when using async/await is with:
+
+- try...catch
+
+6. Async/await is a replacement for promises.
+
+- False. Async/await is syntactic sugar for creating functions that return and wait for promises -- it's a supplement to promises.
