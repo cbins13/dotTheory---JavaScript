@@ -1,0 +1,23 @@
+1. Which of the following is NOT true about WCAG compliance?
+
+- Meeting all three levels of WCAG compliance is mandatory
+
+2. In 2019, the United States Supreme Court ruled that which company must make their website and app accessible to blind users?
+
+- Domino's Pizza
+
+3. Which of the following is true about accessibility?
+
+- Accessibility improves overall usability.
+
+4. The notion that accessibility has benefits beyond allowing people with disabilities to use your product is called what?
+
+- curb-cut effect
+
+5. The four WCAG principles of accessibility are:
+
+- Perceivable, Operable, Understandable, Robust 
+
+6. Please fill in the correct answer in each blank provided below. Fill in the blank: according to Microsoft's Inclusive Design toolkit, having one arm is a permanent disability, having a broken arm is a temporary disability, and operating a phone one-handed while holding a baby is a _ disability.
+
+- situational

@@ -1,0 +1,23 @@
+1. According to the Seizures and Physical Reactions guideline, animations should never flash 
+
+- More than three times per second
+
+2. According to the Navigable guideline, which of these links is more accessible?
+
+- The bottom link is more accessible, because the link text is descriptive
+
+3. Which of the following is a recommended best practice for accessible video captions?
+
+- All of the above
+
+4. Which of the following <img> elements is most helpful to screen reader users?
+
+- <img src="kitten.jpg" alt="kitten with grey striped fur wearing a lavender sweater with gold stars"> 
+
+5. Consider the following markup: Select all that apply: When marking up content, which of the following are important considerations when providing headings (<h1>, <h2>, <h3> etc)?
+
+- Each heading should describe the content that follows the heading, Headings should reflect hierarchy of information
+
+6. According to the Input Modalities guideline, interface target sizes should be a minimum of
+
+- 44x44 pixels

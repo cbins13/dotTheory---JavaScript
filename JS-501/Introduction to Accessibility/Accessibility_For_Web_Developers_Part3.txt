@@ -1,0 +1,23 @@
+1. Which of the following is NOT covered by the Robust principle?
+
+- Web form error messaging
+
+2. Does following WCAG guidelines guarantee an accessible experience for your user?
+
+- No. Disabled users need to be included in the research and testing phases to ensure your product is accessible.
+
+3. Fill in the blank: according to the Predictable guideline, changes in _ such as opening a new window or moving focus to a new component should never happen unless the user initiates the change.
+
+- context
+
+4. Which of the following is NOT a principle for reporting errors in forms?
+
+- Use red text to highlight the error.
+
+5. When creating an HTML page with body copy in English, your HTML tag will include a language declaration. <html lang="en"> Can other HTML elements accept the lang attribute?
+
+- Yes. Use the lang attribute every time screen readers should change pronounciation
+
+6. Keeping body copy clear and straightforward is an example of which Understandable accessibility guideline?
+
+- Readable

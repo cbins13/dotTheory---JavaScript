@@ -1,0 +1,19 @@
+1. Which is true about placeholder text in form inputs?
+
+- Placeholder text disappears after the user begins typing
+
+2. Information on each screen of a form reminding the user of the form’s purpose, the name of the current step, the task completed, and the tasks still remaining are known as what?
+
+- context clues
+
+3. When building a form, which is NOT a benefit of reducing the number of questions per screen?
+
+- Increased form security.
+
+4. Fill in the blank: A border around the currently selected form input is called a _ indicator.
+
+- focus
+
+5. The for attribute of each label element must exactly match which attribute of the corresponding form input?
+
+- id
