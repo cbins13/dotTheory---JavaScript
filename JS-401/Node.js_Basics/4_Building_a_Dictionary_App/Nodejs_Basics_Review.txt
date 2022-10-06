@@ -1,0 +1,27 @@
+1. What is the global object we can access the current version of node and arguments passed in to the command line?
+
+- process
+
+2. What method can you call on a buffer to convert it to a string?
+
+- toString()
+
+3. What's the property on the process object that lists all arguments passed in to the command line?
+
+- argv
+
+4. The String object is what type of object?
+
+- Native
+
+5. If I had a fille tweets.js and wanted to require it in another JavaScript file in the same directory would this work?
+
+- No
+
+6. The HTTPS (https) API is available in which environment?
+
+- Node.js
+
+7. Given the following code... Which error will be triggered?
+
+- URL parse error

@@ -1,0 +1,31 @@
+1. Status code 303 means "See Other". This is good for redirecting POST requests to GET. However there are other redirection headers better suited for other situations. Imagine I had an old URL that no longer can be accessed at it's original location, like /user/chalkers but it's now at /users/chalkers. What status code should I use when redirecting? You can use the 3xx Redirection section of the status codes article.
+
+- 301
+
+2. What is the Content-type for HTML? You can use this Media Type list for reference.
+
+- text/html
+
+3. Please fill in the correct answer in each blank provided below. Finish the following code. How do you find out the HTTP method of a request? (Remember a request is an IncomingMessage.)
+
+- method
+
+4. What is the Content-type for CSS files? You can use this Media Type list for reference.
+
+- text/css
+
+5. What is the Content-type for PDF files? You can use this Media Type list for reference.
+
+- application/pdf
+
+6. What Node module do you need to require to parse a query string or the body of a POST request?
+
+- querystring
+
+7. What is the Content-type for PNG files? You can use this Media Type list for reference.
+
+- image/png
+
+8. What HTTP header do I use to redirect to another URL?
+
+- Location

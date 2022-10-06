@@ -1,0 +1,15 @@
+1. Pick the blocking version of a method you can use to read a file? Blocking means Node.js waits for the file to be loaded before executing further code.
+
+- readFileSync
+
+2. If you wanted to read from a file asynchronously what method would you use?
+
+- readFile
+
+3. How do you require the File System module
+
+- require("fs");
+
+4. Given the following code what will happen?
+
+- I love bees. File read.
