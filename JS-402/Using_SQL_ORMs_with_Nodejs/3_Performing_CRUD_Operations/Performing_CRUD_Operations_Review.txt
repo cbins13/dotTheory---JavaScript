@@ -1,0 +1,25 @@
+1. Which method builds a non-persistent model instance?
+
+- .build()
+
+2. When using the build() method, you must call \_ to store an instance in the database.
+
+- save()
+
+3. Which method automatically stores your instance's data once called?
+
+- .create()
+
+4. Which finder method retrieves a single instance by its primary key (or id) value?
+
+- findByPk()
+
+5. Please fill in the correct answer in each blank provided below. Add the code that will execute the same query shown above:
+
+- findAll, where
+
+6. Which method deletes a record from the database?
+
+- destroy()
+
+7. attributes, order

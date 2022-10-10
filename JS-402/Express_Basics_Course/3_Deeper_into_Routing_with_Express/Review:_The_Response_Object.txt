@@ -1,0 +1,19 @@
+1. What is the response object for?
+
+- Packaging a response to be sent back to the client
+
+2. The response object gives us access to data the client has sent to the server, such as values of fields from a form submission.
+
+- False
+
+3. What is a good way to send only data to the client?
+
+- JSON
+
+4. The response object's \_ method is used to turn templates into HTML.
+
+- render
+
+5. The response object's `send` method can be used to send a string or JSON
+
+- True

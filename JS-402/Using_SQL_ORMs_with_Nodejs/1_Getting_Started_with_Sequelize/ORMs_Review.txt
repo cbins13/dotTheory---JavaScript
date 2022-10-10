@@ -1,0 +1,27 @@
+1. To synchroize your models with the database, use the \_ method
+
+- .sync()
+
+2. Which of the following are relational database management systems?
+
+- SQLite, MySQL, Postgres
+
+3. Which of these methods deletes an existing table each time you start your app, and recreates it from the model definition?
+
+- sequelize.sync({force:true})
+
+4. Which of the following best describes ORMs?
+
+- ORM libraries give you the ability to interact with a database using your programming language of choice.
+
+5. A model in Sequelize represents a database \_.
+
+- table
+
+6. Which method tests the connection to the database?
+
+- .authenticate()
+
+7. ORM stands for:
+
+- Object-Relational Mapping

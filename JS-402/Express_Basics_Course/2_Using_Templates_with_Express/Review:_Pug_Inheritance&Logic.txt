@@ -1,0 +1,19 @@
+1. One Pug file can load another Pug file.
+
+- True
+
+2. A good use for a conditional in a template might be to hide a menu for accessing user account data unless a user is signed in.
+
+- True
+
+3. What is an example of something Pug templates are capable of?
+
+- Rendering a list of elements based on an array of data
+
+4. A good use for iteration in a Pug template might be for rendering an HTML <body> element.
+
+- False
+
+5. What is the conventional name of the Pug file that holds the topmost elements, like <html>, <body>, stylesheets, etc?
+
+- layout.pug

@@ -1,0 +1,19 @@
+1. Middleware functions always execute in a specific sequence.
+
+- True
+
+2. What objects does middleware have access to through its parameters?
+
+- The request and response objects
+
+3. When is next called in express middleware?
+
+- When the middleware's work is done.
+
+4. Express will only accept one middleware function per call to app.use()
+
+- False
+
+5. How is middleware added to an Express application?
+
+- By passing a function to app.use();

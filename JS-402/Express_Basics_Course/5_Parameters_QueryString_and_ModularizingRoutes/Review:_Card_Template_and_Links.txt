@@ -1,0 +1,23 @@
+1. Please fill in the correct answer in each blank provided below. What symbol in a URL marks the beginning of a query string?
+
+- ?
+
+2. Please fill in the correct answer in each blank provided below. Given the URL http://example.com/resource?building=42&age=40&color=salmon What is the value of "age" in the query string?
+
+- 40
+
+3. Pug templates support JavaScript string interpolation
+
+- True
+
+4. How do you get query string information from a URL?
+
+- req.query
+
+5. What does a query string contain?
+
+- key value pairs
+
+What way besides a route parameter can information be passed to the server?
+
+- query string

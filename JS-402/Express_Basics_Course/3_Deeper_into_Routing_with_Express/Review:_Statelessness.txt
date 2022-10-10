@@ -1,0 +1,19 @@
+1. Domains other than the one that set a cookie can access that data freely.
+
+- False
+
+2. What do cookies do?
+
+- Cookies store data on the client
+
+3. What is true of "stateless" interactions between servers and clients?
+
+- Servers don't remember what clients made requests and what was requested
+
+4. Express can read cookies from requests with no configuration.
+
+- False
+
+5. How can express set a cookie on the client?
+
+- res.cookie()

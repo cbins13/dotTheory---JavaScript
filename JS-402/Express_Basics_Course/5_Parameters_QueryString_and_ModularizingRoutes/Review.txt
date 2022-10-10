@@ -1,0 +1,19 @@
+1. What are two ways of putting data into a URL to be sent to the server?
+
+- query strings and url parameters
+
+2. What is one of the benefits of template rendering?
+
+- It reduces repetition you would otherwise need to have in your HTML files.
+
+3. Where are cookies stored?
+
+- On the client
+
+4. What happens when an object is passed into the `next` function?
+
+- Execution is passed to the next error handling middleware function
+
+5. How do you get cookies from a client's request?
+
+- req.cookies

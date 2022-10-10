@@ -1,0 +1,23 @@
+1. What overall problem does templating attempt to solve?
+
+- How to write and reuse HTML
+
+2. Express cannot read and execute client-side JavaScript.
+
+- True
+
+3. What overall problem do cookies attempt to solve?
+
+- How to store state
+
+4. What overall problem do query string attempt to solve?
+
+- How to pass information to the server
+
+5. What overall problem do redirects attempt to solve?
+
+- How to move client to a different URL
+
+6. Where are static assets executed?
+
+- The client executes them.

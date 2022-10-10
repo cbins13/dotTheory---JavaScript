@@ -1,0 +1,19 @@
+1. What is an excellent way to see whether a site has set a cookie?
+
+- By using your browser's developer tools
+
+2. Redirects usually require action from the user to follow the new URL being redirected to.
+
+- False
+
+3. What is one reason for redirecting after a form submission?
+
+- It prevents forms from being submitted more than once in quick succession.
+
+4. When do clients normally send cookie to a server?
+
+- Clients send cookies when sending requests to the server.
+
+5. Redirects require a browser or client to make a second request.
+
+- True

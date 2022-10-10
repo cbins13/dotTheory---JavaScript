@@ -1,0 +1,19 @@
+1. What piece of middleware makes working with incoming form data easier?
+
+- body-parser
+
+2. What property on req contains form data once body-parser is installed?
+
+- body
+
+3. By default, the body property holds an object containing any form responses a client has submitted.
+
+- False
+
+4. The request object is a JavaScript bundle of data from the incoming:
+
+- HTTP Request
+
+5. To send data to the server, what kind of request should a client send?
+
+- POST
