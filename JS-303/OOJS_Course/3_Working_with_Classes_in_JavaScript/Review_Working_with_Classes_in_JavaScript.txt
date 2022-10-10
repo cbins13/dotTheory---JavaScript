@@ -1,0 +1,17 @@
+1. What's wrong with the following class declaration?
+
+- The class keyword should be lowercase
+
+2. Classes are inappropriate to use when you want to model a single, specific thing.
+
+- True
+
+3. Please fill in the correct answer in each blank provided below. Complete the printGPA() method so that it outputs the value of gpa property to the console.
+
+- this
+
+4. Which of the following is the correct code for a method that will add a course to a student’s schedule?
+
+- addCourse(course){
+  this.courses.push(course);
+  }

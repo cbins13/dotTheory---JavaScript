@@ -1,0 +1,19 @@
+1. activeToken is accessed as a property via a Getter method on the Game class.
+
+- False
+
+2. "Render methods" are used to create the associated HTML/visual components of the game
+
+- True
+
+3. What does the app.js file not do?
+
+- Handle logic like switching players or checking for a win
+
+4. To associate Token objects with the HTML elements rendered in the drawHTMLToken() method, the id attribute of the rendered HTML element is set to the value of the id property of the Token object that the method is called on.
+
+- True
+
+5. What does the startGame() method NOT do?
+
+- Instantiate the two player objects

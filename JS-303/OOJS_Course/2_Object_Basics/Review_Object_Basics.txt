@@ -1,0 +1,19 @@
+1. Please fill in the correct answer in each blank provided below. What is the value of book.genres[3]?
+
+- Romance
+
+2. \_ describes consolidating an object’s properties and methods into a package and attaching it to a variable.
+
+- Encapsulation
+
+3. Please fill in the correct answer in each blank provided below. Fill in the missing code so that the value of the author property of the book object is logged to the console:
+
+- book.author
+
+4. Which of the following will change the value of the rating property to 4.2?
+
+- book['rating'] = 4.2
+
+5. Which of the following will add a new ISBN property to the book object literal?
+
+- book.ISBN = '0743477111'

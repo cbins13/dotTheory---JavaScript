@@ -1,0 +1,19 @@
+1. A token moving left, right, or dropping into a space is an example of an object \_.
+
+- behavior
+
+2. Which of the following is not a class that will be used to build Four in a Row?
+
+- Score
+
+3. This is a by-example course. That means you'll be applying things you've already learned to an actual project.
+
+- True
+
+4. There are multiple ways to solve a programming program or design an app
+
+- True
+
+5. Seeking answers online and collaborating with others are a large part of being a successful developer.
+
+- True

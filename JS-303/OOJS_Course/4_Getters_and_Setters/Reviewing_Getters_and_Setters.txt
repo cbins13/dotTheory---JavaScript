@@ -1,0 +1,19 @@
+1. It is invalid to set a property of an object equal to another object.
+
+- False
+
+2. A setter method is used when you need to:
+
+- Add logic when updating a property value
+
+3. The value returned from a getter method is stored:
+
+- Nowhere
+
+4. The name of a setter method cannot be equal to the name of an existing property.
+
+- True
+
+5. Properties with dynamic values should be set in the constructor method.
+
+- False

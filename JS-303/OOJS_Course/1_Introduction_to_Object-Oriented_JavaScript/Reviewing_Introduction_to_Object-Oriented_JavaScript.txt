@@ -1,0 +1,19 @@
+1. Please fill in the correct answer in each blank provided below. An object’s states are represented by _ and it’s behaviors are represented by _.
+
+- properties, methods
+
+2. appendChild() is an example of
+
+- method
+
+3. Which of the following is false:
+
+- Objects can't interact with other objects
+
+4. Most everything you encounter when programming in JavaScript is an object, or can be treated like an object.
+
+- True
+
+5. A developer must know how an object's methods work under the hood to use them.
+
+- False
